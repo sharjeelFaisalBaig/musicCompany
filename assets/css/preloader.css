@@ -1,0 +1,53 @@
+#loader {
+    width: 500px;
+    position: absolute;
+    display: flex;
+    text-align: center;
+    /* left: calc(50% - 250px); */
+    top: -25px;
+    width: 100%;
+    justify-content: center;
+    text-align: center;
+    right: -1px;
+}
+
+#loader .square {
+    display: inline-block;
+    height: 38px;
+    width: 3px;
+    border-radius: 7px;
+    margin: 3px;
+    background: white !important;
+    position: relative;
+    box-shadow: 0 0 20px rgba(0, 0, 0, .3);
+    animation: bouncer cubic-bezier(1, -1.97,0.9, 0.955) .9s infinite alternate;
+}
+
+#loader .square:nth-child(5n+1) {
+    background: #0F9;
+    animation-delay: 0
+}
+
+#loader .square:nth-child(5n+2) {
+    background: #0CF;
+    animation-delay: calc(0s + (.1s * 1))
+}
+
+#loader .square:nth-child(5n+3) {
+    background: #93F;
+    animation-delay: calc(0s + (.1s * 2))
+}
+
+#loader .square:nth-child(5n+4) {
+    background: #F66;
+    animation-delay: calc(0s + (.1s * 3))
+}bouncer cubic-bezier(1, -2.97,1, -1.045) .9s infinite alternate#loader .square:nth-child(5n+5) {
+    background: #FFF35C;
+    animation-delay: calc(0s + (.1s * 4))
+}
+
+@keyframes bouncer {
+    to {
+        transform: scale(1) translateY(-14px)
+    }
+}

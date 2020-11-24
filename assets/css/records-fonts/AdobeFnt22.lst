@@ -1,0 +1,213 @@
+%!Adobe-FontList 1.22
+%Locale:0x429
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:CenturyGothic-Bold
+FamilyName:Century Gothic
+StyleName:Bold
+FullName:Century Gothic Bold
+MenuName:Century Gothic
+StyleBits:2
+WritingScript:Roman
+OutlineFileName:C:\Users\user\Desktop\Sixela Music Day\Document fonts\GOTHICB.TTF
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:129676
+FileModTime:1438255672
+WeightClass:700
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Century Gothic Bold
+NameArray:0,Win,1,Century Gothic
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:GeosansLight
+FamilyName:GeosansLight
+StyleName:Regular
+FullName:GeosansLight
+MenuName:GeosansLight
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\user\Desktop\Sixela Music Day\Document fonts\GeosansLight.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:60072
+FileModTime:1098318040
+WeightClass:500
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,GeosansLight
+NameArray:0,Win,1,GeosansLight
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:MADEGoodTimeGrotesk
+FamilyName:MADE GoodTime Grotesk
+StyleName:Regular
+FullName:MADE GoodTime Grotesk
+MenuName:MADE GoodTime Grotesk
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\user\Desktop\Sixela Music Day\Document fonts\MADE GoodTime Grotesk PERSONAL USE.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:113284
+FileModTime:1500905062
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,MADE GoodTime Grotesk
+NameArray:0,Win,1,MADE GoodTime Grotesk
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Aharoni-Bold
+FamilyName:Aharoni
+StyleName:Bold
+FullName:Aharoni Bold
+MenuName:Aharoni
+StyleBits:2
+FamilyNameNative:Aharoni
+StyleNameNative:Bold
+FullNameNative:Aharoni Bold
+WritingScript:Hebrew
+OutlineFileName:C:\Users\user\Desktop\Sixela Music Day\Document fonts\ahronbd.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:50468
+FileModTime:1244666623
+WeightClass:700
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Aharoni Bold
+NameArray:0,Win,1,Aharoni
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Calibri-BoldItalic
+FamilyName:Calibri
+StyleName:Bold Italic
+FullName:Calibri Bold Italic
+MenuName:Calibri
+StyleBits:3
+WritingScript:Roman
+OutlineFileName:C:\Users\user\Desktop\Sixela Music Day\Document fonts\calibriz.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:902380
+FileModTime:1521627355
+WeightClass:700
+WidthClass:5
+AngleClass:1
+NameArray:0,Mac,4,Calibri Bold Italic
+NameArray:0,Win,1,Calibri
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Candara-Bold
+FamilyName:Candara
+StyleName:Bold
+FullName:Candara Bold
+MenuName:Candara
+StyleBits:2
+WritingScript:Roman
+OutlineFileName:C:\Users\user\Desktop\Sixela Music Day\Document fonts\candarab.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:226564
+FileModTime:1244666594
+WeightClass:700
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Candara Bold
+NameArray:0,Win,1,Candara
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Ebrima
+FamilyName:Ebrima
+StyleName:Regular
+FullName:Ebrima
+MenuName:Ebrima
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\user\Desktop\Sixela Music Day\Document fonts\ebrima.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:304428
+FileModTime:1244666642
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Win,1,Ebrima
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Ebrima-Bold
+FamilyName:Ebrima
+StyleName:Bold
+FullName:Ebrima Bold
+MenuName:Ebrima
+StyleBits:2
+WritingScript:Roman
+OutlineFileName:C:\Users\user\Desktop\Sixela Music Day\Document fonts\ebrimabd.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:298952
+FileModTime:1244666642
+WeightClass:700
+WidthClass:5
+AngleClass:0
+NameArray:0,Win,1,Ebrima
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:PunchSemi-Italic
+FamilyName:Punch Semi-Italic
+StyleName:Regular
+FullName:Punch Semi-Italic
+MenuName:Punch Semi-Italic
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\user\Desktop\Sixela Music Day\Document fonts\punchsemital.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:30112
+FileModTime:1578527032
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Punch Semi-Italic
+NameArray:0,Win,1,Punch Semi-Italic
+%EndFont
+

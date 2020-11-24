@@ -1,0 +1,422 @@
+@font-face {
+    font-family: tabFont;
+    src: url('./records-fonts/GOTHICB.TTF');
+}
+
+@font-face {
+    font-family: F2020;
+    src: url('./records-fonts/MADE\ GoodTime\ Grotesk\ PERSONAL\ USE.otf');
+}
+
+@font-face {
+    font-family: syla;
+    src: url('./records-fonts/Fendysa.ttf');
+}
+
+@font-face {
+    font-family: navFont;
+    src: url('./records-fonts/punchsemital.ttf');
+}
+
+@font-face {
+    font-family: GeosansLight;
+    src: url('./records-fonts/GeosansLight.ttf');
+}
+
+@font-face {
+    font-family: titleFont;
+    src: url('./records-fonts/ebrimabd.ttf');
+}
+
+.banner-adjust {
+    background: url('../../images/records/bg-banner-night.jpg');
+    background-size: cover;
+    padding-top: 0 !important;
+}
+
+.bannerSection {
+    padding-bottom: 82px;
+}
+
+.nav-link {
+    font-family: navFont !important;
+    font-size: 23px;
+}
+
+.nav-item {
+    margin-left: 34px;
+}
+
+.bg-transparent {
+    background: transparent !important;
+}
+
+.nav-item.active .nav-link {
+    color: red !important;
+}
+
+.nav-item .nav-link {
+    color: white !important;
+    font-size: 25px;
+    FONT-WEIGHT: 100;
+    letter-spacing: 1.2px;
+}
+
+.mx-fit {
+    max-width: fit-content !important
+}
+
+.search {
+    /* position: relative;
+    right: -16px !important;
+    top: -3px; */
+}
+
+.search img {
+    max-height: 72px;
+    max-width: 1rem;
+    min-width: 5rem;
+    min-height: 72px;
+    margin-top: -3px;
+    float: left;
+    object-fit: cover;
+}
+
+.title {
+    font-size: 54px;
+    font-family: system-ui !important;
+    transform: skewX(-7deg);
+    letter-spacing: 38.2px;
+    color: #fff;
+    font-weight: 300;
+}
+
+.titleName {
+    font-family: titleFont;
+    font-size: 46px;
+    margin-top: -21px;
+}
+
+.mt-m21 {
+    margin-top: -21px;
+}
+
+.banner-descritption {
+    color: #dddddd;
+    font-family: system-ui;
+    margin-top: 10px;
+    font-size: 13px;
+}
+
+.btn-theme {
+    margin-top: 31px !important;
+    background: red !important;
+    border-radius: 0 !important;
+    border: 0 !important;
+    font-size: 14px;
+    padding-top: 4px;
+    font-family: titleFont;
+}
+
+.cardPop {
+    border-top: 2px white;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border-bottom: 2px white;
+}
+
+.popPic {
+    border: 2px solid black !important;
+    padding: 7px;
+}
+
+.sliderPop .slick-list .slick-track .slick-slide div {
+    display: flex !important;
+    justify-content: center !important;
+}
+
+.slick-slide>div {
+    transform: scale(.5);
+    transition: transform .3s cubic-bezier(.4, 0, .2, 1);
+}
+
+.slick-center>div {
+    transform: scale(1);
+}
+
+.slick-center img {
+    height: 13rem !important;
+    max-width: 13rem !important;
+}
+
+.slider__item>img {
+    width: 14.5rem !important;
+    height: auto;
+    max-width: revert;
+}
+
+.content {
+    padding-top: 84px;
+}
+
+.border-top-bottom-slider {
+    border-top: 3px solid white;
+    border-bottom: 3px solid white;
+}
+
+.sliderPop {
+    padding-top: 21px;
+    margin-bottom: -6px;
+}
+
+.albumTitle {
+    padding-top: 20px;
+    font-family: GeosansLight;
+    color: black;
+    font-weight: 600;
+    font-size: 19px;
+    margin-bottom: -13px;
+}
+
+.ff-nav {
+    font-family: navFont !important;
+}
+
+.ff-title {
+    font-family: titleFont !important;
+}
+
+.ff-album {
+    font-family: GeosansLight !important;
+}
+
+.fw-800 {
+    font-weight: 900 !important;
+}
+
+.opP8 {
+    opacity: .8 !important;
+}
+
+.arrowsSection {
+    position: absolute;
+    top: 50%;
+    left: 9px;
+    z-index: 99;
+    width: 97%;
+}
+
+.customPrev {
+    color: white;
+    border: 2px solid white;
+    border-radius: 50%;
+    padding-left: 8px;
+    font-size: 28px;
+    padding-right: 10px;
+    padding-top: 3px;
+    padding-bottom: 3px;
+}
+
+.customNext {
+    color: white;
+    border: 2px solid white;
+    border-radius: 50%;
+    padding-left: 11px;
+    font-size: 28px;
+    padding-right: 8px;
+    padding-top: 3px;
+    padding-bottom: 3px;
+    float: right;
+}
+
+.sliderPop button.slick-next.slick-arrow {
+    right: -3rem;
+    height: 2rem;
+    opacity: 0; 
+    z-index: 999;
+}
+
+.sliderPop button.slick-prev.slick-arrow {
+    left: -3rem;
+    height: 2rem;
+    opacity: 0; 
+    z-index: 999;
+}
+
+.tabFort.active {
+    font-family: tabFont;
+    color: white;
+    padding: 2px;
+    border-top: 1px solid white;
+    border-bottom: 1px solid white;
+}
+
+.tabFort:not(.active) {
+    font-family: tabFont;
+    color: white;
+    padding: 2px;
+    opacity: .5;
+}
+
+.listenPart {
+    background: rgb(33, 111, 147);
+}
+
+.watchPart {
+    background: rgb(213, 29, 39);
+}
+
+.ff-tab {
+    font-family: tabFont;
+}
+
+.listenPart h2 {
+    font-size: 24px;
+}
+
+.watchPart h2 {
+    font-size: 24px;
+}
+
+.border-b.active {
+    border-bottom: 6px solid rgb(213, 29, 39);
+}
+
+.border-b:not(.active) {
+    border-bottom: 6px solid #fff;
+}
+
+.syleText {
+    font-family: syla !important;
+    color: rgb(213, 29, 39);
+    font-size: 61px;
+    font-weight: 700;
+}
+
+.border-bottom-theme {
+    border-bottom: solid 3px rgb(213, 29, 39);
+}
+
+.max-adjust {
+    max-width: 104%;
+}
+
+.max-adjust-portrait {
+    max-width: 100%;
+    height: 51rem;
+    object-fit: cover;
+    object-position: -23rem;
+}
+
+.p-absilite-back {
+    position: absolute;
+    z-index: -1;
+}
+
+.z-front {
+    z-index: 1;
+}
+
+.fitmiddle {
+    position: absolute;
+}
+
+.mx-100 {
+    max-width: 100%;
+}
+
+.mainBottom {
+    padding-top: 90px;
+}
+
+.sideAttached {
+    writing-mode: vertical-rl;
+    border-left: 2px solid black;
+}
+
+.ff-sideAttach {
+    font-family: sideattach !important;
+}
+
+.text-black {
+    color: black !important;
+}
+
+.bottom-banner-pic {
+    max-width: 156% !important;
+    object-fit: cover;
+    position: absolute;
+    top: 0rem;
+}
+
+.m-justify {
+    margin-top: 17.5rem;
+}
+
+.bg-pinkTransparent {
+    background: #ff000075;
+}
+
+.w-style-vertical-left {
+    writing-mode: vertical-lr;
+    transform: rotate(180deg);
+}
+
+.ff-2020 {
+    font-family: F2020;
+}
+
+.w-disculify {
+    padding-bottom: 0;
+    padding-right: 0;
+    width: max-content !important;
+    max-width: max-content !important;
+}
+
+.bg-search {
+    background: #ed0000;
+    padding-top: 19px !important;
+    margin-top: -3px;
+    padding-bottom: 26.5px !important;
+    padding-right: 20px;
+    padding-left: 41px;
+    margin-left: -1px;
+}
+
+.bg-search input {
+    background: white !important;
+    border: 0 !important;
+}
+
+.bg-brown {
+    background: #242323 !important;
+}
+
+.pt-modify {
+    padding-top: 0px !important;
+}
+
+.lineHeight-inc {
+    block-size: 5rem;
+}
+
+.fs-inc {
+    font-size: 55px !important;
+}
+
+.bg-overLay {
+    background: #0000008a;
+    height: 100%;
+    width: 100%;
+}
+
+.pt-15rem {
+    padding-top: 12rem !important;
+}
+
+.text-white {
+    color: #fff !important;
+}
+.mainBottom{
+    background: white !important;
+}
